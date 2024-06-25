@@ -1,6 +1,7 @@
 Answer for Highest Palindrome
 
 1.  Time Complexity
+
     a. Recursive Calls
 
     Recursion Depth:
@@ -19,6 +20,7 @@ Answer for Highest Palindrome
 Conclusion: The time complexity is `O(n * 2^(n/2))` in the worst case due to the exponential number of recursive paths and the cost of string slicing.
 
 2. Space Complexity
+
    a. Recursion Stack
 
    Maximum Depth:
